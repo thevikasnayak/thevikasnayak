@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thevikasnayak
-- 👀 A good human being and then 4+ years experienced iOS Engineer and Newly Android Developer. Having complete knowledge of making an end-to-end application till App Store management.
-     Also, have experience working on Google Firebase for the last 4 years.
-- 🌱 I’m currently learning Swift UI & Android with Kotlin
+- 👀 A good human being and then 7+ years experienced iOS Engineer and Android Developer. Having complete knowledge of making an end-to-end application till App Store management.
+     Additionally, I have experience working with Google Firebase for the past 6 years.
+- 🌱 I’m currently developing iOS apps with SwiftUI & Android with Kotlin
 - 📫 Reach me through LinkedIn: @thevikasnayak, Email: thevikasnayak@gmail.com
 
 <!---
